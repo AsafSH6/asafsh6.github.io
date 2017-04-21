@@ -1,0 +1,26 @@
+#container {
+    position: relative;
+}
+
+#hacker, #msg{
+    position: absolute;
+    margin-left: -10%;
+    margin-top: 50%;
+}
+
+#msg {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 25%;
+    font-size: 75px;
+    color: white;
+    bol
+}
+
+.cyber {
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    color: white;
+    font-size: 15px;
+}
